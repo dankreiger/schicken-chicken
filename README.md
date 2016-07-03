@@ -1,7 +1,7 @@
 schicken-chicken
 ================
 
-<a href="http://sendgrid.com/"> <img style="width:70px;height:55px;" src="https://lh6.googleusercontent.com/-qV3TVx8WWSU/AAAAAAAAAAI/AAAAAAAABjQ/0wl20DKY2JM/s0-c-k-no-ns/photo.jpg"/> </a><a href="https://www.ruby-lang.org/"> <img style="width:70px;height:55px;" src="http://blogs.microsoft.co.il/blogs/shayf/WindowsLiveWriter/GettingStartedWithDynamicLanguages_B665/ruby_logo_2.png" /></a>
+<a href="http://sendgrid.com/"> <img  src="https://sendgrid.com/brand/sg-mark.svg"/> </a><a href="https://www.ruby-lang.org/"> <img  src="https://chocolatey.org/content/packageimages/ruby.devkit.4.5.2.20120101.png" /></a>
 
 <p>Send test e-mails in the terminal using <a href="http://sendgrid.com/">SendGrid</a>.<p>
 
